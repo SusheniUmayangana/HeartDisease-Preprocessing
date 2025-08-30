@@ -24,7 +24,3 @@ The following steps were applied to prepare the dataset for analysis:
 **Susheni Kalubowila**  
 This project was completed independently as part of a data mining assignment.
 
-## 🔗 Report Access
-
-The full report is available in this repository as `preprocessing_report.pdf`.  
-For direct access to the repository: [GitHub Repository Link](https://github.com/SusheniUmayangana/HeartDisease-Preprocessing)
